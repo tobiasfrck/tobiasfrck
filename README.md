@@ -7,6 +7,7 @@
   *  💾 programming
   *  🎮 gaming
   *  🎬 video editing
+  *  💻 retro tech
   *  📺 Animes
   *  📕 Mangas
   *  🚆 travelling
