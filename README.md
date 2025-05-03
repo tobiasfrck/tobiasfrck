@@ -4,10 +4,10 @@
 - 🏫 I am a computer science student.
 - 💬 I can speak German, English and a bit of French.
 - 🔥 This is what I like:
-  *  💾 programming
+  *  💻 programming
   *  🎮 gaming
   *  🎬 video editing
-  *  💻 retro tech
+  *  💾 retro tech
   *  📺 Animes
   *  📕 Mangas
   *  🚆 travelling
